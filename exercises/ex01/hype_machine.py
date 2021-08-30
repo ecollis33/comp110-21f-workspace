@@ -1,5 +1,12 @@
-# TODO: Write docstring here
+"""This is my hype machine program from Comp 110."""
+__author__= "730381998"
 
-# TODO: Initialize __author__ variable here
+name: str = input("What is your name? ")
 
-# TODO: Implement your program logic here
+print("You entered: ")
+
+print(name)
+
+print(name + " is great")
+print("You go " + name)
+print("You're doing amazing, " + name + " keep going!")
