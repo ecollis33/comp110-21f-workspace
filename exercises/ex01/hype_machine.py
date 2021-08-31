@@ -1,5 +1,5 @@
 """This is my hype machine program from Comp 110."""
-__author__= "730381998"
+__author__ = "730381998"
 
 name: str = input("What is your name? ")
 
