@@ -16,7 +16,6 @@ from random import randint
 
 
 print("Your fortune cookie says... ")
-(randint(1, 4))
 number: int = randint(1,4)
 if number == 1:
     print("You will have great success soon! ")
